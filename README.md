@@ -1,2 +1,2 @@
-# bartinitbtbs-github-io
+# bartinitbtbs.github.io
 kişisel site
